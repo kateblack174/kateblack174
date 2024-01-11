@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kateblack174
+- 👀 I’m interested in front end development.
+- 📫 How to reach me: kateblack.dev
+- 😄 Pronoun: She
